@@ -6,7 +6,7 @@ from pandasai import SmartDataframe
 
 # Initialize the model
 model = LocalLLM(
-    api_base="http://localhost:11434/v1",
+    api_base="https://231e-2a09-bac5-3b23-254b-00-3b7-48.ngrok-free.app",
     model="llama3"
 )
 
