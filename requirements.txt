@@ -1,0 +1,11 @@
+pandas
+pandasai
+sentence-transformers 
+chromadb
+flask
+streamlit
+langchain
+langchain-ollama
+chardet
+sentence-transformers
+faiss-cpu
